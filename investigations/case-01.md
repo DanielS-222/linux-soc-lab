@@ -20,6 +20,7 @@ sudo
 bash /tmp/.soc-check.sh
 ├── python3 -m http.server 9090 --bind 127.0.0.1
 └── sleep 600
+```
 
 The Python process was running as root.
 Commands used
